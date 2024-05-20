@@ -3,6 +3,7 @@
 ![image](https://github.com/RESMIRNAIR/MOORE_1011/assets/154305926/4c056127-254f-4b9a-88d1-5486b2577ba3)
 
 ### Program:
+~~~
 Module Sequence_Detector_Moore(clock,reset,sequence_in,detector_out);
 input clock, reset, sequence_in; 
 output reg detector_out; 
@@ -63,6 +64,6 @@ begin
  endcase
 end 
 endmodule
-
+~~~
 ### Output:
 ![Screenshot 2024-05-20 085755](https://github.com/Shaiksushma123/MOORE_1011/assets/159005642/c79fed8c-4339-48ad-b64a-0015833c6df1)
